@@ -1,0 +1,55 @@
+.flag{
+    background-color: aliceblue;
+    height: 100px;
+}
+.button{
+   text-align: center;
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+.socialBadges{
+    text-align: center;
+    max-width: 100%;
+    height: auto;
+    margin-top: 50px;
+}
+div h1{
+    color: aliceblue;
+    text-shadow: 2px 4px grey;
+    text-align: center;
+    margin: 20px;
+}
+
+.container{
+    color:azure;
+    text-transform: uppercase;
+    margin: auto;
+    width: 60%;
+}
+.container h1{
+    text-align: center;
+    text-shadow: 2px 4px grey;
+}
+
+.form{
+    margin-left: 10%;    
+}
+#fname, #lname{
+ border: inset;   
+}
+.footer {
+    color:aliceblue;
+}
+
+.footer p{
+    margin-left: 10%;
+}
+
+.lists{
+  list-style-type: none;  
+}
+
